@@ -1,0 +1,16 @@
+
+
+.searcHeader{
+    
+    background:#A1B8E6;
+    height:48px;
+    margin-left:32px;
+    margin-right:32px;
+
+}
+
+li{
+    display:inline-block;
+    list-style:none;
+    font-weight:bold;
+}
